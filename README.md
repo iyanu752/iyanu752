@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning react js, node js and mongodb
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me iyanu752@gmail.com / +2348158750915
+- 📫 How to reach me iyanu752@gmail.com
 
 <!---
 iyanu752/iyanu752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
