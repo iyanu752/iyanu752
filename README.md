@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed iyanuoluwa 
-- 👀 I’m interested in frontend software engineering
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m a full-stack software engineer
+- 🌱 I work with Javascript, React, Angular, Tailwind CSS and Node js
+- 💞️ I’m looking for an opportunity to grow in a diverse enviroment
 - 📫 How to reach me iyanu752@gmail.com
 
 <!---
