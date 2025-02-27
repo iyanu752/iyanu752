@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
 <h3 align="center">A fullstack developer from the world beyond (remote)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanu752&label=Profile%20views&color=0e75b6&style=flat" alt="iyanu752" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyanu752" alt="iyanu752" /></a> </p>
-
-- 🌱 I’m currently learning **java and spring boot**
+- 🌱 I’m currently learning **java and springboott**
 
 - 📫 How to reach me **iyanu752@gmail.com**
 
@@ -23,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyanu752&show_icons=true&locale=en&layout=compact" alt="iyanu752" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanu752&show_icons=true&locale=en" alt="iyanu752" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyanu752&" alt="iyanu752" /></p>
