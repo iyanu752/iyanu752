@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
 <h3 align="center">A fullstack developer from the world beyond (remote)</h3>
 
-- 🌱 I’m currently learning **java and springboott**
-
 - 📫 How to reach me **iyanu752@gmail.com**
 
 - ⚡ Fun fact **i like to draw**
