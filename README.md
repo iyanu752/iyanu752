@@ -1,1 +1,1 @@
-[![Iyanus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iyanu752&theme=github-compact)](https://github.com/iyanu752/github-readme-activity-graph)
+[![Star History Chart](https://api.star-history.com/chart?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left)](https://www.star-history.com/?repos=bamiebot-maker%2Fbamiebot-maker&type=date&legend=top-left)
