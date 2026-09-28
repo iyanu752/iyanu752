@@ -1,1 +1,1 @@
-[![Star History Chart](https://api.star-history.com/chart?repos=bamiebot-maker/bamiebot-maker&type=date&legend=top-left)](https://www.star-history.com/?repos=bamiebot-maker%2Fbamiebot-maker&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/chart?repos=iyanu752/iyanu752&type=date&legend=top-left)](https://www.star-history.com/?repos=iyan752%2Fiyanu752&type=date&legend=top-left)
